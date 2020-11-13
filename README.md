@@ -1,5 +1,5 @@
 
-# <center> Neurofibromatosis Personalized Health (NFPH): NF Symptom Tracker App with Built-In Hearing Test </center>
+# Neurofibromatosis Personalized Health (NFPH): NF Symptom Tracker App with Built-In Hearing Test
 
 ![nf logo](src/assets/images/pictures/readme-logo.png)
 
