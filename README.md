@@ -56,9 +56,6 @@ npm start               # to open the app in your browser
     <li>View all providers.</li>
 </ul>
 
-
-<br>
-
 <br>
 
 ### Providers Can:
@@ -69,9 +66,6 @@ npm start               # to open the app in your browser
 </ul>
 
 <br>
-
-<br>
-
 
 ## Developers
 
