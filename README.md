@@ -22,7 +22,7 @@ Users now have a personalized entry-logging system and more autonomy over tracki
 
 ## Installation
 
-Please find the repositories here: https://github.com/candacecodes/nfph-frontend and https://github.com/candacecodes/nfph-backend.
+Please find the repositories here: https://github.com/carcarvroom/nfph-frontend and https://github.com/carcarvroom/nfph-api.
 
 To run NF Personalized Health, first clone both the front and back end repositories into a single directory. 
 
@@ -56,7 +56,6 @@ npm start               # to open the app in your browser
     <li>View all providers.</li>
 </ul>
 
-<br>
 
 ### Providers Can:
 <ul>
@@ -65,7 +64,6 @@ npm start               # to open the app in your browser
     <li>Add comments to patient entries.</li>
 </ul>
 
-<br>
 
 ## Developers
 
